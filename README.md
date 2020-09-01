@@ -8,11 +8,9 @@ Basic examples are
 
 Open the folder comparison_FL_QT in a shell:
  
- python -m 2 4 2 \n
+ python -m 2 6 2
  PS:(Nb_atomic_states, Nb_Floquet_Blocs, Nb_drives)
- python -m 2 8 2 \n
- 
- python -m 2 4 1 \n
+
 
 
 
