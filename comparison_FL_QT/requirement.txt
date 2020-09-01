@@ -1,0 +1,6 @@
+qutip
+numpy
+scipy
+sympy
+time
+matplotlib
